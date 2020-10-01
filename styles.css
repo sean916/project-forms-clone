@@ -1,0 +1,109 @@
+body {
+    font-family: arial;
+}
+header {
+    display: inline;
+    float: right;
+    width: 100%;
+}
+
+#forgot-id {
+    float: right;
+    margin-right: 5px;
+    font-size: 12px;
+}
+
+#forgot-id a {
+    color: blue;
+}
+.sign-in button {
+    background-color: navy;
+    color: white;
+    display: inline;
+    float: right;
+    font-size: 20px;
+    margin-top: 0px;
+    margin-left: 5px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    text-align: center;
+}
+
+#form {
+    background-color: rgb(222, 239, 243);
+    border: solid 1px black;
+    border-radius: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+
+#form a {
+    color: blue;
+    margin-top: -10px;
+}
+
+#form .center-form {
+    display: block;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+#form label {
+    text-align: left;
+    margin-left: 5%;
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 0px;
+
+}
+
+#form input {
+    display: block;
+    margin-bottom: 30px;
+    margin-top: -10px;
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 90%;
+    padding: 5px;
+}
+
+#phone-span {
+    display: block;
+    font-size: 12px;
+    margin-left: 5%;
+    margin-top: -30px;
+}
+
+#submit-button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 18px;
+    padding: 10px;
+    width: 80%;
+}
+
+.form-foot {
+    display: block;
+    text-align: center;
+    font-size: 10px;
+    margin-bottom: 50px;
+}
+
+#captcha {
+    display: block;
+    background-color: gainsboro;
+    border-radius: 0px 0px 20px 20px;
+    font-size: 12px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
